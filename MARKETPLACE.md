@@ -1,16 +1,5 @@
-# Marketplace copy
+# Discord
 
-**Tagline:** Sign in to PeltyCMS with Discord
+Sign in to PeltyCMS with Discord
 
-## Discord SSO for PeltyCMS
-
-OAuth/OIDC client and staff login with account linking. Configure client id/secret once; Pelty handles redirect and session.
-
-### Features
-- Client + staff SSO buttons
-- Account linking
-- Sandboxed WASM SSO provider
-
-### Requirements
-- Discord OAuth application
-
+See [README.md](README.md).
